@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma
 
-- Pizas
-- Sauses
-- reds
+- Pizzas
+- Sauces
+- Spreds
